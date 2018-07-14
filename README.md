@@ -4,7 +4,7 @@ Student DataHack - Data Identity hackathon 2018 Hosted by Analytics Vidhya
 ## Tool:
 - Python 3.5
 
-## Libraaries:
+## Libraries:
 - numpy 1.12.1
 - pandas 0.20.2
 - catboost 0.8.1
